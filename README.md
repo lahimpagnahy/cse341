@@ -4,7 +4,7 @@ A read-only REST API built with Express and MongoDB that returns book data. Buil
 
 ## Live URL
 
-Deployed on Render: `https://<your-render-url>.onrender.com`
+Deployed on Render: `https://.onrender.com`
 
 ## Features
 
